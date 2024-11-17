@@ -20,7 +20,7 @@
 ### Инструкция
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/<ваш-логин>/finance-calc.git
+   git clone https://github.com/seri4ka/finance-calc.git
    cd finance-calc
    ```
 
